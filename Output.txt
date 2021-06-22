@@ -1,0 +1,8 @@
+Enter the city name: dubai
+-------------------------------------------------------------
+Weather Stats for - DUBAI  || 22 Jun 2021 | 04:27:57 PM
+-------------------------------------------------------------
+Current temperature is: 41.06 deg C
+Current weather desc  : clear sky
+Current Humidity      : 29 %
+Current wind speed    : 6.69 kmph
